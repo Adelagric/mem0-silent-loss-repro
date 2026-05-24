@@ -12,7 +12,7 @@ from `embed_map`. The only signal is a `logger.warning(...)` that is filtered
 out at default production log levels. No exception is raised to the caller of
 `Memory.add()`.
 
-Tracking issue: [mem0ai/mem0#TBD](https://github.com/mem0ai/mem0/issues/TBD)
+Tracking issue: [mem0ai/mem0#5245](https://github.com/mem0ai/mem0/issues/5245)
 
 ## How to run
 
